@@ -1,6 +1,6 @@
 [[redirects]]
   from = "*"
-  to = "https://shaka-surf.com"
+  to = "https://store.shaka-surf.com"
   status = 301
   force = true
   headers = {X-From = "Netlify"}
